@@ -1,4 +1,4 @@
-# StakeBank
+# BBBank-Staking
 
 ## Install dependency
 
